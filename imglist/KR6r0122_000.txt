@@ -1,0 +1,2 @@
+000-0948a22	TKD 30-0749a	buddhist/K-koreana/30-tif/0700-0799/30_0749_A.TIF
+000-0948b12	TKD 30-0749b	buddhist/K-koreana/30-tif/0700-0799/30_0749_B.TIF
